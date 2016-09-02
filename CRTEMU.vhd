@@ -1,22 +1,11 @@
-----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date:    13:16:47 02/22/2014 
--- Design Name: 
--- Module Name:    CRTEMU - Behavioral 
--- Project Name: 
--- Target Devices: 
--- Tool versions: 
--- Description: 
 --
--- Dependencies: 
+-- CRTEMU.vhd
 --
--- Revision: 
--- Revision 0.01 - File Created
--- Additional Comments: 
+-- Console Emulator for X1-series, main logic
 --
-----------------------------------------------------------------------------------
+-- Nibbles Lab. 2014-2016
+--
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;
